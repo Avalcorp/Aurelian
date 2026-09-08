@@ -1,13 +1,8 @@
 <table>
 <tr>
 <td><img src="https://github.com/Avalcorp/Aurelian/blob/main/Aurelian.png" width="120"></td>
-<td><span style="font-size: 32px; font-weight: bold;">Aurelian</span></td>
 </tr>
 </table>
-
-
-
- 
 
 ## Purpose
 
