@@ -1,4 +1,7 @@
-# [https://github.com/Avalcorp/Aurelian/blob/main/Aurelian.png] Aurelian
+<p align="center">
+  <img src="[caminho/para/sua_imagem.png](https://github.com/Avalcorp/Aurelian/blob/main/Aurelian.png)" alt="Ícone" width="120">
+</p> 
+# Aurelian
 
 ## Purpose
 
