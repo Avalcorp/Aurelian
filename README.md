@@ -1,7 +1,8 @@
-<p align="center">
-  <img src="https://github.com/Avalcorp/Aurelian/blob/main/Aurelian.png" alt="Ícone" width="120" style="vertical-align: middle;">
-  <span style="font-size: 32px; font-weight: bold; margin-left: 10px;">Aurelian</span>
-</p>
+<div align="center">
+  <img src="https://github.com/Avalcorp/Aurelian/blob/main/Aurelian.png" width="120" style="vertical-align: middle;">
+  <strong style="font-size: 32px; margin-left: 10px; vertical-align: middle;">Aurelian</strong>
+</div>
+
  
 
 ## Purpose
