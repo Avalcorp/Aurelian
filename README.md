@@ -1,7 +1,6 @@
-<p align="center">
+# <p align="center">
   <img src="https://github.com/Avalcorp/Aurelian/blob/main/Aurelian.png" alt="Ícone" width="120">
-</p> 
-# Aurelian
+</p> Aurelian
 
 ## Purpose
 
